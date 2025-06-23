@@ -1,0 +1,28 @@
+# Dependencias principales para CatFitAI
+# Análisis de datos
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+joblib>=1.2.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Aplicación web
+streamlit>=1.25.0
+
+# Mapas interactivos
+folium>=0.14.0
+
+# Base de datos
+sqlalchemy>=1.4.0
+pymysql>=1.0.0
+
+# Utilidades
+warnings
+os
+glob2>=0.7 
