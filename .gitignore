@@ -1,0 +1,9 @@
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar archivos PKL
+*.pkl
+
+# Ignorar otros archivos grandes o innecesarios
+*.log
+*.tmp
